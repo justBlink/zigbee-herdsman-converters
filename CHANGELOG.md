@@ -1,5 +1,12 @@
 # Changelog
 
+## [25.85.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.85.0...v25.85.1) (2025-12-09)
+
+
+### Bug Fixes
+
+* Tuya RB-SRAIN01: expose illumance as `illuminance_raw` https://github.com/Koenkk/zigbee2mqtt/issues/30063 ([dfcd451](https://github.com/Koenkk/zigbee-herdsman-converters/commit/dfcd45115d872b89e0fafe1e15f6ef69a2e1447e))
+
 ## [25.85.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.84.0...v25.85.0) (2025-12-09)
 
 
